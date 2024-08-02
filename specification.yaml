@@ -1,0 +1,10 @@
+openapi: 3.0.3
+info:
+  title: petclinic
+  description: |-
+    Pet Clinic
+  version: 0.0.1
+servers:
+  - url: "http://localhost:8080"
+  - url: "https://microcks-microcks.apps.cluster-7ds5h.7ds5h.sandbox1980.opentlc.com/rest/petclinic/0.0.1"
+paths: {}
